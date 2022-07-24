@@ -14,5 +14,3 @@ def caesar_cipher(string, shift=0)
   end 
   shift_char.join("")
 end 
-
-puts caesar_cipher("Programming Ruby", 5)
